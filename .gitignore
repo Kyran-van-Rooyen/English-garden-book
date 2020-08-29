@@ -1,0 +1,4 @@
+# Specify filepatterns you want git to ignore.
+._1.jpg
+._2.jpg
+._3.jpg
